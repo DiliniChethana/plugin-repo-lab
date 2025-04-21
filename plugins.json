@@ -1,10 +1,5 @@
 [
   {
-    "name": "sample Plugin",
-    "entry": "./plugins/sample-plugin/plugin.js"
-  },
-
-  {
     "name": "Dilini Plugin",
     "entry": "./plugins/dilini-plugin/plugin.js"
   }
