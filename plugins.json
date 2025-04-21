@@ -1,9 +1,6 @@
 [
   {
-    "name": "new Plugin",
-
-
-    
-    "entry": "./plugins/new-plugin/plugin.js"
+    "name": "Dilini Plugin",
+    "entry": "./plugins/dilini-plugin/plugin.js"
   }
 ]
